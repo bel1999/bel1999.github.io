@@ -1,0 +1,68 @@
+
+body {
+    background-image: url("fondo.png");
+    background-size: cover;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h1 {
+    font-size: 350%;
+    color: rgb(226, 24, 24);
+    margin-top: 5%;
+    background-color: rgba(255, 156, 98, 0.247);
+}
+h2 {
+    font-size: 200%;
+    color: rgb(255, 121, 32);
+}
+h3 {
+    font-size: 200%;
+    color: rgb(139, 10, 10);
+}
+img.btn {
+    width: 50px;
+    height: 50px;
+    margin: 2%;
+    border-radius: 50%;
+}
+img.btn:hover {
+    transform: translateY(-10%);
+}
+#me {
+    background: url(IMG_20220625_223612.jpg);
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    float: right;
+    margin-top: -900px;
+    margin-right: -65px;
+}
+img.logo {
+    width: 150px;
+    padding-right: 130px;
+    float: right;
+}
+img.logo:hover {
+    transform: translateY(-10%);
+}
+p {
+    color: rgb(240, 232, 130);
+    margin-right: 30%;
+    font-size: 120%;
+}
+.contacto {
+    color: rgb(240, 232, 130);
+}
+ul {
+    color: rgb(240, 232, 130);
+    font-size: 140%;
+}
+li:hover {
+    color: rgb(250, 143, 72);
+}
+
+
+
+
+
